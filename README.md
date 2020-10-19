@@ -20,4 +20,4 @@ Initially the chatbot introduces itself that what it can do. Next it will ask th
 Here is the demo video link we have made :
 [![Youtbe video link](https://img.youtube.com/vi/FAS2c0tEmAA/0.jpg)](https://www.youtube.com/watch?v=FAS2c0tEmAA)
 ## Block Diagram:
-![Block diagram](file:///C:/Users/Nikhitha%20Reddy/Documents/ML%202020/WhatsApp%20Image%202020-10-19%20at%204.06.09%20PM.jpeg)
+![Block diagram](file:///C:/Users/Nikhitha%20Reddy/Documents/WhatsApp%20Image%202020-10-19%20at%206.35.37%20PM.jpeg)
